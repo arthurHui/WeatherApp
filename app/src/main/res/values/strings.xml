@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Comp313F_GroupProject</string>
+    <string name="inputlat">Input latitude (within -90 to 90):</string>
+    <string name="inputlon">Input longitude (within -180 to 180):</string>
+    <string name="enter">Enter</string>
+    <string name="hintlat">Enter latitude here</string>
+    <string name="hintlon">Enter longitude here</string>
+    <string name="inputeamil">Input your email here:</string>
+    <string name="eamil">Input your email</string>
+    <string name="current">Current Location</string>
+    <string name="inputcity">City/Town Name</string>
+    <string name="inputcity1">Input City/Town Name(America only)</string>
+</resources>
